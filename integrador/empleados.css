@@ -1,0 +1,186 @@
+*{
+    margin: 0%;
+}
+
+body{
+    width: 1365px;
+    height: 100%;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    background-color: #f17009;
+	background-color: -moz-linear-gradient(30deg, #f17009 0%, #ee620d 24%, #f19109 74%, #f17009 100%);
+	background-color: -webkit-linear-gradient(30deg, #f17009 0%, #ee620d 24%, #f19109 74%, #f17009 100%);
+	background-color: linear-gradient(60deg, #f17009 0%, #ee620d 24%, #f19109 74%, #f17009 100%);
+}
+
+.left{
+    margin: auto;
+    width: 30%;
+    height: 100%;
+}
+
+.ficha{
+    width: 100%;
+    height: 20%;
+    background-color: rosybrown;
+}
+
+.foto{
+    width: 20%;
+    height: 100%;
+}
+
+.foto img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.name{
+    width: 77%;
+    height: 100%;
+    margin: 0px 0px 0px 10px;
+}
+
+.salida{
+    width: 133px;
+    height: 133px;
+    margin: 0px 5px 0px 5px;
+}
+
+.salida img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.Empleados{
+    width: 100%;
+    height: 80%;
+}
+
+.id{
+    width: 10%;
+    height: 100%;
+    border-right: 1px black solid;
+}
+
+.nombre{
+    width: 29%;
+    height: 100%;
+    border-right: 1px black solid;
+}
+
+.apellido{
+    width: 30%;
+    height: 100%;
+    border-right: 1px black solid;
+}
+
+.direccion{
+    width: 30%;
+    height: 100%;
+    border-right: 1px black solid;
+}
+
+.titulo{
+    width: 100%;
+    height: 30px;
+    border-bottom: 1px black solid;
+}
+
+.right{
+    width: 70%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.datos{
+    width: 100%;
+    height: 50%;
+}
+
+.arriba{
+    width: 100%;
+    height: 40%;
+}
+
+.info{
+    width: 85%;
+    height: 100%;
+}
+
+.abajo{
+    width: 100%;
+    height: 60%;
+}
+
+.dias{
+    width: 19.7%;
+    height: 100%;
+    background-color: rgb(240, 186, 37);
+    border-bottom: 1px black solid;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    border-left: 1px black solid;
+}
+
+.relleno{
+    width: 100%;
+    height: 50%;
+}
+
+.extra{
+    width: 39.8%;
+    height: 100%;
+    border-right: 1px black solid;
+}
+
+.observaciones{
+    width: 60%;
+    height: 100%;
+}
+
+.texto{
+    width: 100%;
+    height: 100%;
+    border-right: 1px black solid;
+}
+
+.puesto{
+    width: 100%;
+    height: 16%;
+    border-bottom: 1px black solid;
+}
+
+.sueldo{
+    width: 100%;
+    height: 16%;
+    border-bottom: 1px black solid;
+}
+
+.nss{
+    width: 100%;
+    height: 16%;
+    border-bottom: 1px black solid;
+}
+
+.estudios{
+    width: 100%;
+    height: 16%;
+    border-bottom: 1px black solid;
+}
+
+.carta{
+    width: 100%;
+    height: 16%;
+    border-bottom: 1px black solid;
+}
+
+.antecedentes{
+    width: 100%;
+    height: 16%;
+    border-bottom: 1px black solid;
+}

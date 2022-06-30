@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+}
+
+body{
+    width: 1365px;
+    height: 100%;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    background-color: #f17009;
+	background-color: -moz-linear-gradient(30deg, #f17009 0%, #ee620d 24%, #f19109 74%, #f17009 100%);
+	background-color: -webkit-linear-gradient(30deg, #f17009 0%, #ee620d 24%, #f19109 74%, #f17009 100%);
+	background-color: linear-gradient(60deg, #f17009 0%, #ee620d 24%, #f19109 74%, #f17009 100%);
+}
+
+.left{
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+}
+
+.arriba{
+    width: 100%;
+    height: 10%;
+    background-color: aqua;
+}
+
+.abajo{
+    width: 100%;
+    height: 90%;
+    background-color: black;
+}
+
+.right{
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
